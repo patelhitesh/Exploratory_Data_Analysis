@@ -10,6 +10,6 @@ The goal is to showcase practical data analysis in Python, including:
 
 ## Datasets Included
 
-- Dataset 1: [Diabetes Dataset]((https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset))
+- Dataset 1: [Diabetes Dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
 
 (This list will expand as more EDA projects are added.)
